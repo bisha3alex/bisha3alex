@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>KingsPower - Scarica PowerBot</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .hero {
+            background-color: #007bff;
+            color: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+        }
+
+        .download-buttons img {
+            width: 150px;
+            margin: 10px;
+        }
+
+        .features {
+            padding: 50px 0;
+            background-color: #f8f9fa;
+        }
+
+        .features h2 {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer a {
+            color: #f8f9fa;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sezione Hero -->
+    <section class="hero">
+        <div class="container">
+            <h1>Scarica PowerBot di KingsPower</h1>
+            <p>Automatizza le tue operazioni e massimizza i profitti con PowerBot, il nostro bot di trading avanzato.</p>
+            <div class="download-buttons">
+                <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" alt="Scarica su App Store"></a>
+                <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Disponibile su Google Play"></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sezione Funzionalità -->
+    <section class="features text-center">
+        <div class="container">
+            <h2>Funzionalità Principali di PowerBot</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>Trading Automatico</h4>
+                    <p>Imposta le tue strategie e lascia che PowerBot faccia il resto.</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>Analisi Avanzate</h4>
+                    <p>Visualizza l'analisi delle operazioni in tempo reale e ottimizza i tuoi investimenti con PowerBot.</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>Prelievi e Depositi Sicuri</h4>
+                    <p>Gestisci facilmente i tuoi fondi con PowerBot, garantendo sicurezza e velocità.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 KingsPower. Tutti i diritti riservati. | <a href="#">Termini e condizioni</a> | <a href="#">Privacy</a></p>
+        </div>
+    </footer>
+
+    <!-- Script Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
